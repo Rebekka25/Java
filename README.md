@@ -26,3 +26,9 @@ Es wird die Themen
   
   
   durch genommen.
+
+Eine verkürzte if abfrage Bsp:
+int b=2;
+int n=4;
+int c = 1 > 1.5 ? b:n;
+System.out.println(c);
